@@ -6,11 +6,14 @@ from pathlib import Path
 # Base Directory: /simplified_project/backend
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = 'nepali-diet-planner-secret-key-simplified-modular'
+SECRET_KEY = os.environ.get("DJANGO_SECRET_KEY", "local-only-dev-key")
 
-DEBUG = True
+DEBUG = os.environ.get("DEBUG", "False").lower() == "true"
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = os.environ.get(
+    "ALLOWED_HOSTS",
+    "localhost,127.0.0.1"
+).split(",")
 
 # Application definition
 INSTALLED_APPS = [
@@ -81,7 +84,14 @@ REST_FRAMEWORK = {
 }
 
 # Allow CORS for Frontend Vite Dev Server
-CORS_ALLOW_ALL_ORIGINS = True
+CORS_ALLOWED_ORIGINS = [
+    origin.strip()
+    for origin in os.environ.get(
+        "CORS_ALLOWED_ORIGINS",
+        "http://localhost:5173"
+    ).split(",")
+    if origin.strip()
+]
 
 # Internationalization
 LANGUAGE_CODE = 'en-us'
