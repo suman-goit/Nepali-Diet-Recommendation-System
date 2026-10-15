@@ -1,6 +1,7 @@
 """
 Django settings for Nepali Diet Recommendation System.
 """
+import os
 from pathlib import Path
 
 # Base Directory: /simplified_project/backend
