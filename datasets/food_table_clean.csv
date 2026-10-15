@@ -1,0 +1,225 @@
+food_id,food_name,nepali_name,category,edible_pct,moisture_g,protein_g,fat_g,carbs_g,fiber_g,calories,calcium_mg,phosphorus_mg,iron_mg,carotene_ug,vitamin_c_mg,thiamine_mg,riboflavin_mg,niacin_mg,sodium_mg,sugar_g,omega3_g,nutrient_estimate_source,portion_description,portion_grams,household_measure,season_spring,season_summer,season_autumn,season_winter,available_year_round,price_tier,region_mountain,region_hills,region_terai
+A01,Amaranth Seed,Latteko Dana,Cereals,100,10.6,9.4,7.17,68.1,2.2,375,37,529.1,5.2,0,0,0,0,0,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A02,Barley,Jaun,Cereals,100,12.5,11.5,1.3,69.6,3.9,336,26,215,1.7,10,0,0.47,0.2,5.4,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A03,Buckwheat Whole,Phapar,Cereals,74,11.3,10.3,2.4,65.1,8.6,323,64,355,15.5,0,0,0.9,0.34,4.4,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A04,Bajra,Bajara,Cereals,84,12.4,11.6,5,67.5,1.2,361,42,296,8,132,0,0.33,0.25,2.3,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE
+A05,Bamboo Seed,Bairalochan,Cereals,100,7.8,13.1,1.1,75.9,0.9,367,37,162,6.4,0,0,0.17,0.12,1.1,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A06,Buckwheat Flour,Phaparko Pitho,Cereals,0,12.2,6.1,1.3,69.2,7.8,313,0,0,5.6,0,0,0,0,0,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A07,Foxtail Millet,Kaguno,Cereals,79,11.2,12.3,4.3,60.9,8,331,31,290,12.9,32,0,0.59,0.11,3.2,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A08,Finger Millet (Ragi),Kodo,Cereals,100,13.1,7.3,1.3,72,3.6,328,344,283,3.9,42,0,0.42,0.19,1.1,5,1,0.05,estimated,1 serving dhindo,200,1 bowl,TRUE,TRUE,TRUE,TRUE,TRUE,1,TRUE,TRUE,TRUE
+A09,Proso Millet (Chino),Chino,Cereals,100,8.67,11,4.22,72.9,1,378,8,28.5,3,0,0,0,0,0,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A10,Jowar,Junelo,Cereals,100,11.9,10.4,1.9,72.6,1.6,349,25,222,5.8,47,0,0.37,0.13,3.2,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A11,Maize Green (Tender),Hariyo Makai,Cereals,37,67.1,4.7,0.9,24.6,1.9,125,9,121,1.1,32,0,0.11,0.17,0.6,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A12,Maize Dry,Makai Sukeko,Cereals,100,14.9,11.1,3.6,66.2,2.7,342,10,348,3.3,90,0,0.42,0.1,1.8,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,1,TRUE,TRUE,TRUE
+A13,Maize Flour Yellow,Pahelo Makaiko Pitho,Cereals,100,12,9.2,3.9,72.1,1.6,360,20,256,2.4,305,0,0.38,0.11,2,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A14,Maize Flour White,Seto Makaiko Pitho,Cereals,100,12,9.2,3.9,72.1,1.6,360,20,256,2.4,305,0,0.38,0.11,2,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A15,Millet,Kodo,Cereals,100,14.4,7.7,1.2,70.1,3.7,322,288,276,49.1,0,0,0,0,0,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A16,Oatmeal,Jaiko Chaikla,Cereals,100,10.7,13.6,7.6,62.8,3.5,374,50,380,3.8,0,0,0.98,0.16,1.1,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,FALSE,TRUE,TRUE
+A17,Rice Parboiled Hand Pounded,Usinako Chamal (Dhikima),Cereals,100,12.6,8.5,0.6,77.4,1.6,349,10,280,2.8,9,0,0.27,0.12,4,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A18,Rice Raw Milled,Chamal (Millma Kuteko),Cereals,100,13.7,6.8,0.5,78.2,0.2,345,10,160,0.7,0,0,0.21,0.06,1.9,5,1,0.05,estimated,1 standard plate of cooked rice (Bhat),150,1 thali plate,TRUE,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE
+A19,Rice Raw Hand Pounded,Chamal (Dhikima Kuteko),Cereals,100,13.3,7.5,1,76.7,0.6,346,10,190,3.2,2,0,0.21,0.16,3.9,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A20,Rice Flakes,Cheura,Cereals,100,12.2,6.6,1.2,77.3,0.7,346,20,238,20,0,0,0.05,0.05,4,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A21,Rice Parboiled Milled,Usinako Chamal (Millma),Cereals,100,13.3,6.4,0.4,79,0.2,345,9,143,1,0,0,0.21,0.05,3.8,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A22,Rice Puff,Golfuki / Bhuja,Cereals,100,14.7,7.5,0.1,73.6,0.3,325,23,150,6.6,0,0,0.21,0.01,4,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A23,Semolina,Suji,Cereals,100,12.2,10.4,0.8,74.8,0.2,348,16,102,1.6,0,0,0.21,0.03,0,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A24,Sorghum,Jowar,Cereals,100,14.3,7.6,2.4,74.7,0.6,357,17,196,3.6,0,0,0.1,0.03,3,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A25,Wheat Flour Whole,Atta (Ganhuko Pitho),Cereals,100,12.2,12.1,1.7,69.4,1.9,341,48,355,4.9,29,0,0.49,0.17,4.3,5,1,0.05,estimated,2 chapatis/rotis,60,2 pieces,TRUE,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE
+A26,Wheat Flour Refined,Maida,Cereals,100,13.3,11,0.9,73.9,0.3,348,23,121,2.7,25,0,0.12,0.07,2.4,5,1,0.05,estimated,1 medium naan,90,1 piece,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A27,Sarvottam Pitho (Lito),Lito,Cereals,100,2.68,21.29,10.84,61.7,0.4,427,22.5,49,4.3,0,0,0,0,0,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+A28,Vermicelli,Sewai,Cereals,100,11.7,8.7,0.4,78.3,0.2,352,22,92,2,0,0,0.19,0.05,1.8,5,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+B01,Black Gram Dal,Masko Dal,Pulses,100,10.9,24,1.4,59.6,0.9,347,154,385,3.8,38,0,0.42,0.2,2.3,15,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE
+B02,Black Gram Whole,Masko Geda,Pulses,100,10.6,21,1.6,58.8,4.4,344,110,348,8.4,20,2,0.58,0.2,2,15,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+B03,Bengal Gram (Chickpea),Chana,Pulses,100,9.9,20.8,5.6,59.8,1.2,372,56,331,5.3,129,1,0.48,0.18,2.4,15,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE
+B04,Broad Bean,Bakula,Pulses,100,13.8,25,1.2,29.3,5.1,328,104,357,4.2,65,0,0.45,0.19,2.4,15,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+B05,Cow Pea,Bodi,Pulses,97,13.4,24.1,1,54.5,3.8,323,77,414,8.6,12,0,0.51,0.2,1.3,15,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+B06,Field Bean Dry (Simi),Simi Sukeko,Pulses,100,9.6,24.9,1.3,60.1,1.4,347,60,433,4.4,0,0,0.52,0.16,1.8,15,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+B07,Gram Flour (Besan),Besan,Pulses,100,11.6,17.9,4.3,63.5,0.1,364,129,321,5.6,0,0,0,0,0,15,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+B08,Green Gram Dal,Mungako Dal,Pulses,100,10.1,24.5,1.2,59.9,4.2,348,75,405,3.9,49,0,0.47,0.21,2.4,15,2,0.05,estimated,1 bowl cooked mung dal,120,1 katori,TRUE,TRUE,TRUE,TRUE,TRUE,1,TRUE,TRUE,TRUE
+B09,Green Gram Whole,Mung ko Geda,Pulses,100,10.4,24,1.3,56.7,4.1,335,124,326,7.3,94,0,0.47,0.39,2.1,15,2,0.05,estimated,1 serving sprouted mung,80,1 small bowl,TRUE,TRUE,TRUE,TRUE,TRUE,1,TRUE,TRUE,TRUE
+B10,Lentil,Musuro,Pulses,100,12.4,25.1,0.7,59,0.7,343,69,293,7.5,270,0,0.45,0.2,2.6,15,2,0.05,estimated,1 bowl cooked dal,120,1 katori,TRUE,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE
+B11,Rajmah (Kidney Bean),Rato Thulo Simi,Pulses,100,12,22.9,1.3,60.6,4.8,346,260,410,5.1,0,0,0,0,0,15,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,1,TRUE,TRUE,TRUE
+B12,Red Gram Dal (Pigeon Pea),Raharko Dal,Pulses,100,13.4,22.3,1.7,57.6,1.5,335,73,304,2.7,132,0,0.45,0.19,2.9,15,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE
+B13,Soybean Black,Bhatamas Kalo,Pulses,100,12.1,33.3,15,31.3,4.3,393,213,509,9.5,10,0,0.65,0.23,2.8,15,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+B14,Soybean White,Bhatamas Seto,Pulses,100,10.2,33.3,17.7,29.6,4.2,411,226,546,8.5,10,0,0.66,0.22,2.2,15,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE
+B15,White Peas Big,Thulo Kerau,Pulses,100,12.3,23.3,0.8,58,3.1,332,11,348,5.3,0,0,0,0,0,15,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+B16,Green Peas Dry,Kerau Sukeko,Pulses,100,16,19.7,1.9,55.7,4.5,319,75,298,7.05,39,0,0.47,0.19,3.4,15,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+B17,Mung Dal Yellow,Mungako Dal Pahelo,Pulses,100,8.77,26.71,0.93,58,1.71,348,0,426,1.17,0,0,0,0,0,15,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+B18,Nutrila (Soybean),Nutrila,Pulses,100,10,46.9,1,33.2,1.4,329,33,565,12.8,0,0,0,0,0,15,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+B19,Tofu (Soybean Product),Tofu,Pulses,0,80.5,16.5,0.3,1.6,0.03,75,18.4,144,1,0,0,0,0,0,15,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+C01,Amaranth Tender,Kandelunde Sag,Green Leafy,0,85.7,4,0.5,6.1,1,45,397,83,3.49,5520,99,0.03,0.3,1.2,60,1,0.15,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+C02,Asparagus (Kurilo),Kurilo,Green Leafy,86.8,92.5,3.3,0.1,2.7,0.8,25,30.6,45.5,1.3,0,12.8,0,0,0,60,1,0.15,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+C03,Cabbage Green,Bandakobi,Green Leafy,88,91.9,1.8,0.1,4.6,1,27,39,44,0.8,120,124,0.06,0.09,0.4,60,1,0.15,estimated,1 serving cooked,100,1 katori,TRUE,FALSE,TRUE,TRUE,FALSE,1,TRUE,TRUE,TRUE
+C04,Cauliflower Greens,Fulkobiko Sag,Green Leafy,71,80,5.9,1.3,7.6,2,66,626,107,40,0,0,0,0,0,60,1,0.15,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+C05,Coriander Leaves,Hariyo Dhaniyako Pat,Green Leafy,70,86.3,3.3,0.6,6.3,1.2,44,184,71,1.42,6918,135,0.05,0.06,0.8,60,1,0.15,estimated,1 tablespoon chopped,5,1 tablespoon,TRUE,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE
+C06,Colocasia Leaves (Green),Karkalako Sag Hariyo,Green Leafy,0,82.7,3.9,1.5,6.8,2.9,56,227,82,10,10278,12,0.22,0.26,1.1,60,1,0.15,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+C07,Drumstick Leaves,Sahijanko Sag,Green Leafy,75,75.9,6.7,1.7,12.5,0.9,92,440,70,0.85,6780,220,0.06,0.05,0.8,60,1,0.15,estimated,1 serving cooked,100,1 katori,FALSE,TRUE,TRUE,TRUE,FALSE,1,FALSE,TRUE,TRUE
+C08,Fenugreek Leaves,Methiko Sag,Green Leafy,59,86.1,4.4,0.9,6,1.1,49,395,51,1.93,2340,52,0.04,0.31,0.8,60,1,0.15,estimated,Standard 100g serving,100,100g serving,TRUE,FALSE,FALSE,TRUE,FALSE,1,FALSE,TRUE,TRUE
+C09,Mustard Leaves,Toriko Sag,Green Leafy,0,89.8,4,0.6,3.2,0.8,34,155,26,16.3,2622,33,0.03,0,0,60,1,0.15,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,1,TRUE,TRUE,TRUE
+C10,Spinach,Palungko Sag,Green Leafy,0,92.1,2,0.7,2.9,0.6,26,73,21,1.14,3049,28,0.03,0.26,0.5,60,1,0.15,estimated,1 serving cooked saag,100,1 katori,TRUE,FALSE,TRUE,TRUE,FALSE,1,FALSE,TRUE,TRUE
+C11,Stinging Nettle (Sisnu),Sisnu,Green Leafy,0,81.7,6.9,0.2,5,1.8,53,981.3,0,0,0,5.5,0,0,0,60,1,0.15,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,FALSE,FALSE,FALSE,1,TRUE,TRUE,FALSE
+C12,Sweet Potato Green Leaves,Sakharkhandako Sag,Green Leafy,100,80.7,4.2,0.8,9.7,2.4,63,360,60,1.14,750,27,0.24,1.7,27,60,1,0.15,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+C13,Beet Green,Chukandarko Sag,Green Leafy,51,86.4,3.4,0.8,6.5,0.7,46,380,30,16.2,5862,70,0.26,0.56,3.3,60,1,0.15,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+C14,Carrot Leaves,Ganjarko Sag,Green Leafy,51,76.6,5.1,0.5,13.1,1.9,77,340,110,8.8,5700,79,0.04,0.37,2.1,60,1,0.15,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+C15,Mint,Pudinako Pat,Green Leafy,45,84.9,4.8,0.6,5.8,2,48,200,62,15.6,1620,27,0.05,0.26,1,60,1,0.15,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,FALSE,FALSE,FALSE,1,TRUE,TRUE,TRUE
+C16,Knol-Knol Green,Ganthkobiko Sag,Green Leafy,73,86.7,3.5,0.4,6.4,1.8,43,740,50,13.3,4146,157,0.25,0,3,60,1,0.15,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+C17,Pumpkin Leaves,Pharsiko Munta,Green Leafy,0,81.9,4.6,0.8,6.9,2.1,53,392,112,0,498,0,0,0,0,60,1,0.15,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+C18,Rape Leaves,Rayoko Sag,Green Leafy,0,84.9,5.1,0.4,5.9,1.2,48,370,110,12.5,130,65,0.01,0.03,0.9,60,1,0.15,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+C19,Radish Leaves,Mulako Sag,Green Leafy,100,90.8,3.8,0.4,2.4,1,28,265,59,0.9,1301,81,0.18,0.47,0.8,60,1,0.15,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+C20,Turnip Green Leaves,Salgamko Sag,Green Leafy,51,81.9,4,1.5,9.4,1,67,710,60,24.4,2136,180,0.31,0.57,5.4,60,1,0.15,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+D01,Ash Gourd,Kubhindo,Vegetables,67,96.5,0.4,0.1,1.9,0.8,10,30,20,0.8,0,1,0.06,0.01,0.4,20,3,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+D02,Bitter Gourd,Karela,Vegetables,97,92.4,1.6,0.2,4.2,0.8,25,20,70,0.61,126,88,0.07,0.09,0.5,20,3,0.02,estimated,Standard 100g serving,100,100g serving,FALSE,TRUE,TRUE,FALSE,FALSE,1,FALSE,TRUE,TRUE
+D03,Bottle Gourd,Lauka,Vegetables,86,96.1,0.2,0.1,2.5,0.6,12,20,10,0.46,0,0,0.03,0.01,0.2,20,3,0.02,estimated,Standard 100g serving,100,100g serving,FALSE,TRUE,TRUE,FALSE,FALSE,1,FALSE,TRUE,TRUE
+D04,Brinjal,Bhanta,Vegetables,91,92.7,1.4,0.3,4,1.3,24,18,47,0.37,74,12,0.04,0.11,0.9,20,3,0.02,estimated,Standard 100g serving,100,100g serving,FALSE,TRUE,TRUE,FALSE,FALSE,1,FALSE,TRUE,TRUE
+D05,Bamboo Shoot (Tender),Tamako Tusa,Vegetables,54,88.8,3.9,0.5,5.7,0.9,43,20,65,0.1,0,5,0.08,0.19,0.2,20,3,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,FALSE,FALSE,FALSE,1,TRUE,TRUE,FALSE
+D06,Cauliflower,Kauli,Vegetables,70,90.8,2.6,0.1,4,1.2,30,33,57,1.23,30,56,0.04,0.1,1,20,3,0.02,estimated,1 serving cooked,100,1 katori,TRUE,FALSE,TRUE,TRUE,FALSE,1,TRUE,TRUE,TRUE
+D07,Cucumber,Kankro,Vegetables,83,96.3,0.4,0.1,2.5,0.4,13,10,25,0.6,0,7,0.03,0,0.2,20,3,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+D08,French Bean,Ghyu Simi,Vegetables,94,91.4,1.7,0.1,4.5,1.8,26,50,28,0.61,132,24,0.08,0.06,0.3,20,3,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+D09,Drumstick,Sahejanko,Vegetables,83,86.9,2.5,0.1,3.7,4.8,26,30,110,0.18,110,120,0.05,0.07,0.2,20,3,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+D10,Jack Fruit Tender,Rukhkatahar Hariyo,Vegetables,0,84,2.6,0.3,9.4,2.8,51,30,40,1.7,0,14,0.05,0.4,85,20,3,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+D11,Ladies Finger,Ramtoria,Vegetables,84,89.6,1.9,0.2,6.4,1.2,35,66,56,0.35,52,13,0.07,0.1,0.6,20,3,0.02,estimated,Standard 100g serving,100,100g serving,FALSE,TRUE,TRUE,FALSE,FALSE,1,FALSE,TRUE,TRUE
+D12,Mango Green,Kancho Anpa,Vegetables,72,87.5,0.7,0.1,10.1,1.2,44,10,19,6.33,90,3,0.04,0.01,0.2,20,3,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+D13,Mushroom Button (Gobre),Gobre Chyau,Vegetables,88,88.5,4.6,0.8,4.3,0.4,43,6,110,1.5,0,0,0,0,0,20,3,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,FALSE,FALSE,FALSE,2,TRUE,TRUE,FALSE
+D14,Mushroom Oyster (Kanne),Kanne Chyau,Vegetables,86,88,3,0.2,5.8,0.9,37,0,0,1.5,0,0,0,0,0,20,3,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+D15,Onion (Green Stalk),Pyajako Danth,Vegetables,100,87.6,0.9,0.2,8.9,1.6,41,50,50,7.43,595,17,0,0.03,0.3,20,3,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+D16,Onion Big,Pyaja Thulo,Vegetables,95,86.6,1.2,0.1,10.4,1.3,47,47,50,0.6,0,11,0.08,0.01,0.4,20,3,0.02,estimated,1 medium onion,100,1 piece,TRUE,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE
+D17,Papaya Green,Kancho Mewa,Vegetables,0,92,0.7,0.2,5.7,0.9,27,28,40,0.9,0,12,0.01,0.01,0.1,20,3,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+D18,Peas (Fresh),Hariyo Kerau,Vegetables,53,72.1,7.2,0.1,15.9,4,93,20,139,1.5,83,9,0.25,0.01,0.8,20,3,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,FALSE,TRUE,TRUE,FALSE,1,TRUE,TRUE,TRUE
+D19,Pumpkin,Farsi,Vegetables,79,92.6,1.4,0.1,4.6,0.7,25,10,30,0.44,50,2,0,0,0,20,3,0.02,estimated,Standard 100g serving,100,100g serving,FALSE,TRUE,TRUE,FALSE,FALSE,1,TRUE,TRUE,TRUE
+D20,Ridge Gourd,Pate Ghiraula,Vegetables,82,95.2,0.5,0.1,3.4,0.5,17,18,26,0.39,33,5,0,0.01,0.2,20,3,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+D21,Snake Gourd,Chichinda,Vegetables,98,94.6,0.5,0.3,3.3,0.8,18,26,20,1.51,96,0,0.04,0.06,0.3,20,3,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+D22,Tomato Green,Golveda Kancho,Vegetables,98,93.1,1.9,0.1,3.6,0.7,23,20,36,1.8,192,31,0.07,0.01,0.4,20,3,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+D23,Tomato Red,Golveda Pakeko,Vegetables,100,93.5,1.3,0.1,3.9,0.5,21,15,27,0.7,424,23,0,0,0,20,3,0.02,estimated,1 medium tomato,100,1 piece,TRUE,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE
+D24,Capsicum Green,Hariyo Bhede Khursani,Vegetables,97,93,0.9,0.11,25,0.7,104,25.1,32.65,0,0,48.03,0,0,0,20,3,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+D25,Capsicum Red,Rato Bhede Khursani,Vegetables,97,88.86,0.92,0.1,25.2,0.7,105,25.41,35.38,2.38,0,0,0,0,0,20,3,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+D26,Cluster Beans,Gawar Simi,Vegetables,0,81,3.2,0.4,10.8,3.2,16,130,57,1.08,198,49,0.09,0.03,0.6,20,3,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+D27,Broad Beans (Fresh),Bakula Simi,Vegetables,88,85.4,4.5,0.1,7.2,2,48,50,64,1.4,9,12,0.08,0,0.8,20,3,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+E01,Beet Root,Chukandarko Jara,Roots & Tubers,85,87.7,1.7,0.1,8.8,0.9,43,18,55,1.19,0,10,0.04,0.09,0.4,15,2,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,FALSE,TRUE,TRUE,FALSE,1,FALSE,TRUE,TRUE
+E02,Carrot,Ganjar,Roots & Tubers,95,86,0.9,0.2,10.6,1.2,48,80,530,1.03,4275,3,0.04,0.02,0.6,15,2,0.02,estimated,1 medium carrot,80,1 piece,TRUE,FALSE,TRUE,TRUE,FALSE,1,TRUE,TRUE,TRUE
+E03,Colocasia (Taro),Pindalu,Roots & Tubers,0,73.1,3,0.1,21.1,1,97,40,140,0.42,24,0,0.09,0.03,0.4,15,2,0.02,estimated,Standard 100g serving,100,100g serving,FALSE,TRUE,TRUE,FALSE,FALSE,1,TRUE,TRUE,TRUE
+E04,Garlic Dry,Lasun Sukeko,Roots & Tubers,85,62,6.3,0.1,29.8,0.8,145,30,310,1.3,0,13,0.06,0.23,0.4,15,2,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+E05,Onion Small,Pyaja Sano,Roots & Tubers,0,84.3,1.8,0.1,12.6,0.6,59,40,60,1.2,15,2,0.08,0.02,0.5,15,2,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+E06,Potato,Alu,Roots & Tubers,85,74.7,1.6,0.1,22.4,0.6,97,10,40,0.46,0,17,0.1,0.01,1.2,15,2,0.02,estimated,1 medium potato,150,1 piece,TRUE,TRUE,TRUE,TRUE,TRUE,1,TRUE,TRUE,TRUE
+E07,Potato Boiled (No Skin),Alu Usineko,Roots & Tubers,0,81,1.9,0.1,16.3,0.4,72,7,44,0.8,0,11,0.06,0.02,1.3,15,2,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+E08,Radish Pink,Mula Rato,Roots & Tubers,98,90.8,0.6,0.3,6.8,0.6,32,50,20,0.37,0,17,0.06,0.02,0.5,15,2,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+E09,Radish White,Mula Seto,Roots & Tubers,99,94.4,0.7,0.1,22.7,9.6,101,24.7,0,0.4,3,15,0.06,0.02,0.5,15,2,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,FALSE,TRUE,TRUE,FALSE,1,TRUE,TRUE,TRUE
+E10,Sweet Potato White,Sakharkhanda Seto,Roots & Tubers,97,68.5,1.2,0.3,28.3,0.7,121,46,50,0.21,6,24,0.08,0.04,0.7,15,2,0.02,estimated,Standard 100g serving,100,100g serving,FALSE,TRUE,TRUE,FALSE,FALSE,1,TRUE,TRUE,TRUE
+E11,Sweet Potato Red,Sakharkhanda Rato,Roots & Tubers,93,67.6,1.35,0.5,29.1,1,126,145.81,33.97,2.21,0,2.42,0,0,0,15,2,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+E12,Turnip Red,Salgam,Roots & Tubers,60,88.9,1.2,0.2,7.7,1.3,37,47.7,35.2,2.3,1.2,0,0,0,0,15,2,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+E13,Yam Wild,Ban Tarul,Roots & Tubers,89,70.4,2.5,0.3,29.1,0.8,110,20,74,1,97,1,0.19,0.45,1.2,15,2,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+E14,Cassava,Tarul,Roots & Tubers,0,62.5,1.2,0.3,34.7,0.43,146,33,0,0.7,0,0,0,0,0,15,2,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+F01,Gundruk (Mustard),Toriko Gundruk,Veg Products,100,11.7,15.9,0.7,55.65,9.21,293,2488,0,94.3,1520,0,0,0,0,400,1,0.02,estimated,1 serving gundruk,30,1 small katori,TRUE,TRUE,TRUE,TRUE,TRUE,1,TRUE,TRUE,TRUE
+F02,Mulako Sinki,Mulako Sinki,Veg Products,100,11.1,12,0.7,47.5,14.92,245,0,0,0,0,0,0,0,0,400,1,0.02,estimated,1 serving sinki,30,1 small katori,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+F03,Maseura Black Gram+Colocasia,Maseura,Veg Products,100,7.9,19.8,0.7,63.8,3.5,341,17.6,401,4.5,0,0,0,0,0,400,1,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+G01,Apple,Syaau,Fruits,90,84.6,0.2,0.5,13.4,1,59,10,14,0.66,0,1,0,0,0,5,10,0.02,estimated,Standard 100g serving,100,100g serving,FALSE,FALSE,TRUE,FALSE,FALSE,2,TRUE,TRUE,FALSE
+G02,Amala (Big),Amala Thulo,Fruits,95,86.7,0,0.2,13.7,3.6,54,0,0,0,0,324.1,0,0,0,5,10,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+G03,Amala Small,Amala Sano,Fruits,93,80.92,0,0.2,11.9,3.21,58,50,20,1.2,0,562.62,0.03,0.01,0.2,5,10,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+G04,Apricot Fresh,Khurpani Taja,Fruits,86,85.3,1,0.3,11.6,1.1,53,20,25,2.2,2160,6,0.04,0.3,0.6,5,10,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,FALSE,FALSE,FALSE,2,TRUE,TRUE,FALSE
+G05,Apricot Dried,Khurpani Sukeko,Fruits,93,19.4,1.6,0.7,73.4,2.1,306,110,70,4.6,58,2,0.22,0,2.3,5,55,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+G06,Banana Ripe,Kera Pakeko,Fruits,71,70.1,1.2,0.3,27.2,0.4,116,17,36,0.37,78,7,0.05,0.08,0.5,5,10,0.02,estimated,1 medium banana,100,1 piece,TRUE,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE
+G07,Bael Fruit,Bael,Fruits,64,61.5,1.8,0.3,31.8,2.9,137,85,50,0.6,55,8,0.13,0.03,1.1,5,10,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+G08,Dates Dried,Chhokada Sukeko,Fruits,86,15.3,2.5,0.4,75.8,3.9,317,120,50,7.3,26,3,0.01,0.02,0.9,5,55,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+G09,Figs,Anjir,Fruits,99,88.1,1.3,0.2,7.6,2.2,37,80,30,1,162,5,0.06,0.05,0.6,5,10,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+G10,Guava Country,Amba Esthaniya,Fruits,100,81.7,0.9,0.3,11.2,5.2,51,10,28,0.27,0,212,0.03,0.03,0.4,5,10,0.02,estimated,Standard 100g serving,100,100g serving,FALSE,TRUE,TRUE,TRUE,FALSE,1,FALSE,TRUE,TRUE
+G11,Jack Fruit Ripe Seed,Rukhkatahar Pakeko,Fruits,30,76.2,1.9,0.1,19.8,0.9,88,20,41,0.56,175,7,0.03,0.13,0.13,5,10,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+G12,Lapsi,Lapsi,Fruits,59,79.9,0.5,0.02,17.68,1.4,73,218,20.6,2.7,0,48.15,0,0,0,5,10,0.02,estimated,Standard 100g serving,100,100g serving,FALSE,TRUE,TRUE,FALSE,FALSE,1,FALSE,TRUE,TRUE
+G13,Lemon (Nibuwa),Nibuwa,Fruits,0,85,1,0.9,11.1,0.7,57,70,10,0.26,0,39,0.02,0.01,0.1,5,10,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE
+G14,Lichi,Lichi,Fruits,68,84.1,1.1,0.2,13.6,0.5,61,10,35,0.7,0,31,0.02,0.06,0.4,5,10,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+G15,Mango Ripe,Anpa Pakeko,Fruits,74,81,0.6,0.4,16.9,0.7,74,14,16,1.3,2743,16,0.8,0.09,0.9,5,10,0.02,estimated,1 medium mango slice serving,80,1 cup sliced,FALSE,TRUE,FALSE,FALSE,FALSE,2,FALSE,TRUE,TRUE
+G16,Mulberry,Kimbu,Fruits,100,86.5,1.1,0.4,10.3,1.1,49,70,30,2.3,57,12,0.04,0.13,0.5,5,10,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+G17,Orange,Suntala,Fruits,67,87.6,0.7,0.2,10.9,0.3,48,26,20,0.32,1104,30,0,0,0,5,10,0.02,estimated,1 medium orange,150,1 piece,FALSE,FALSE,TRUE,TRUE,FALSE,1,TRUE,TRUE,TRUE
+G18,Papaya Ripe,Mewa Pakeko,Fruits,75,90.8,0.6,0.1,7.2,0.8,32,17,13,0.5,666,57,0.4,0.25,0.2,5,10,0.02,estimated,1 cup cubed papaya,150,1 cup,TRUE,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE
+G19,Pineapple,Bhueikatahar,Fruits,60,87.8,0.4,0.1,10.8,0.5,46,20,9,2.42,18,39,0.2,0.12,0.1,5,10,0.02,estimated,1 slice,80,1 ring,TRUE,TRUE,FALSE,FALSE,FALSE,2,FALSE,TRUE,TRUE
+G20,Plums,Arubakhada,Fruits,90,86.9,0.7,0.5,11.1,0.4,52,10,12,0.6,166,5,0.04,0.1,0.3,5,10,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+G21,Pomegranate,Anar,Fruits,68,78,1.6,0.1,14.5,5.1,65,10,70,1.79,0,16,0.06,0.1,0.3,5,10,0.02,estimated,Standard 100g serving,100,100g serving,FALSE,FALSE,TRUE,TRUE,FALSE,2,FALSE,TRUE,TRUE
+G22,Strawberry,Bhueikakal,Fruits,96,87.8,0.7,0.2,9.8,1.1,44,30,30,1.8,18,52,0.03,0.02,0.2,5,10,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+G23,Watermelon,Tarbhuja,Fruits,78,95.8,0.2,0.2,3.3,0.2,16,11,12,7.9,0,1,0.2,0.04,0.1,5,10,0.02,estimated,Standard 100g serving,100,100g serving,FALSE,TRUE,FALSE,FALSE,FALSE,1,FALSE,TRUE,TRUE
+G24,Pear,Naspati,Fruits,0,86,0.6,0.2,11.9,1,52,8,15,0.5,28,0,0.06,0.03,0.2,5,10,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+G25,Grapes Blue,Angur Nilo,Fruits,95,82.2,0.6,0.4,13.1,2.8,58,20,23,0.5,3,1,0.04,0.03,0.2,5,10,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+G26,Peaches,Aru,Fruits,88,86,1.2,0.3,10.5,1.2,50,15,41,2.4,0,6,0.02,0.03,0.5,5,10,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+H01,Chilli Green,Hariyo Khursani,Condiments,90,85.7,2.9,0.6,3,6.8,29,30,80,4.4,175,111,0.19,0.39,0.9,30,2,0.05,estimated,1 medium green chilli,10,1 piece,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+H02,Chilli Dry,Sukeko Khursani,Condiments,0,10,15.9,6.2,31.6,30.2,246,160,370,2.3,345,50,0.93,0.43,9.5,30,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+H03,Coriander Dry,Dhaniya,Condiments,0,11.2,14.4,16.1,21.6,32.6,288,630,393,7.1,942,0,0.22,0.35,1.1,30,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+H04,Cumin Seed,Jeera,Condiments,0,11.9,18.7,15,36.6,12,356,1080,511,11.7,522,3,0.55,0.36,2.6,30,2,0.05,estimated,1 teaspoon cumin,3,1 tsp,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+H05,Fenugreek Seed,Methiko Dana,Condiments,0,13.7,26.2,5.8,44.1,7.2,333,160,370,6.5,96,0,0.34,0.29,1.1,30,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+H06,Garlic Fresh,Aduwa Haledo,Condiments,0,80.9,2.3,0.9,12.3,2.4,67,20,60,3.5,40,6,0.06,0.03,0.6,30,2,0.05,estimated,3 cloves garlic,9,3 cloves,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+H07,Ginger Fresh,Aduwa Taja,Condiments,0,80.9,2.3,0.9,12.3,2.4,67,20,60,3.5,40,6,0.06,0.03,0.6,30,2,0.05,estimated,1 inch piece ginger,10,1 inch,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+H08,Turmeric,Besar,Condiments,100,13.1,6.3,5.1,69.4,2.6,349,150,282,67.8,30,0,0.03,0,2.3,30,2,0.05,estimated,1 teaspoon turmeric powder,3,1 tsp,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+H09,Pepper Dry,Marich Sukeko,Condiments,95,18.2,11.5,6.8,49.2,14.9,304,460,198,12.4,1080,0,0.09,0.14,1.4,30,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+H10,Tamarind Pulp,Imaiko Gudi,Condiments,0,20.9,3.1,0.1,67.4,5.6,283,170,110,17,60,3,0,0,0.7,30,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+H11,Cardamom,Alaichi,Condiments,0,20,10.2,2.2,42.1,20.1,229,130,160,4.6,0,0,0.22,0.17,0.8,30,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+H12,Cinnamon,Dalchini,Condiments,0,8.8,6.1,1.9,64.6,26.5,259,415,69,15,0,0,0,0,0,30,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+H13,Mustard Seed,Toriko Dana,Condiments,0,8.5,20,39.7,23.8,1.8,541,490,700,7.9,162,0,0,0,0,5,0,9,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+I01,Almond,Madeshe Badam,Nuts & Oilseeds,0,5.2,20.8,58.9,10.5,1.7,665,230,490,5.09,0,0,0,0,0,10,3,1,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+I02,Cashew Nut,Kaju,Nuts & Oilseeds,0,5.9,21.2,46.9,22.3,1.3,596,50,450,5.8,60,0,0,0,0,10,3,1,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+I03,Coconut Fresh,Nariwal Taja,Nuts & Oilseeds,100,36.3,4.5,41.6,13,3.6,444,10,240,1.7,0,1,0.05,0.1,0.8,10,3,1,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+I04,Groundnut Raw,Badam Kachha,Nuts & Oilseeds,73,3,25.3,40.1,26.1,3.1,567,90,350,2.5,37,0,0,0,0,10,3,1,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+I05,Groundnut Roasted,Badam Bhuteko,Nuts & Oilseeds,69,1.7,26.2,39.8,26.7,3.1,570,77,370,3.1,0,0,0.39,0.13,22.1,10,3,1,estimated,1 small handful,30,1 small handful,TRUE,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE
+I06,Linseed Seeds,Aalasako Geda,Nuts & Oilseeds,99,6.5,20.3,37.7,28.3,4.8,533,170,370,2.7,30,0,0,0,0,5,1,22,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+I07,Mustard Seed (Oil),Tori Dana,Nuts & Oilseeds,0,8.5,20,39.7,23.8,1.8,541,490,700,7.9,162,0,0,0,0,5,0,9,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+I08,Niger Seed,Kalo Til,Nuts & Oilseeds,0,4.2,23.9,39,17.1,10.9,515,300,224,56.7,0,0,0,0,0,10,3,1,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+I09,Sesame Seed Black,Kalo Til Dana,Nuts & Oilseeds,0,6.36,21.3,47.97,9.33,8.86,554,0,0,0,0,0,0,0,0,10,3,1,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+I10,Sesame Seed White,Seto Til Dana,Nuts & Oilseeds,0,4.28,25.9,49.57,12.4,2.53,599,0,442,4.59,0,0,0,0,0,10,3,1,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,1,TRUE,TRUE,TRUE
+I11,Sunflower Seed,Suryamukhiko Geda,Nuts & Oilseeds,52,5.5,19.8,52.1,17.9,1,620,280,670,5,0,1,0,0,0,10,3,1,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+I12,Walnut,Okhar,Nuts & Oilseeds,45,4.5,15.6,64.5,11,2.6,687,100,380,2.04,6,0,0,0,0,2,2.5,9,estimated,4 walnut halves,30,4 halves,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,FALSE
+J01,Buffalo Meat (Lean),Ranga ko Masu,Meat,0,78.7,19.4,0.9,0,0,86,3,189,0,0,0,0,0,0,70,0,0.1,estimated,1 serving buff curry,80,1 small bowl,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+J02,Chicken Flesh,Kukhura ko Masu,Meat,0,68.7,18.8,17.6,0,0,187,12,188,3,0,0,0,0,0,70,0,0.1,estimated,1 serving chicken,80,1 small bowl,TRUE,TRUE,TRUE,TRUE,TRUE,2,FALSE,TRUE,TRUE
+J03,Duck Meat,Hanss ko Masu,Meat,0,72.3,21.6,4.8,0,0,130,4,235,0,0,0,0,0,0,70,0,0.1,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+J04,Goat Meat (Lean),Khasi ko Masu,Meat,0,74.2,21.4,3.6,0,0,118,12,193,0,0,0,0,0,0,70,0,0.1,estimated,1 serving mutton,80,1 small bowl,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+J05,Liver Goat,Khasiko Kalejo,Meat,0,76.3,20,3,1.3,0,107,17,279,0,0,0,0,0,17.6,70,0,0.1,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+J06,Liver Sheep,Vedako Kalejo,Meat,0,70.4,19.3,7.5,1.3,0,150,10,380,6.3,22300,20,0.36,1.7,6.8,70,0,0.1,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+J07,Mutton Muscle,Khasi ko Lodo Masu(Boneless),Meat,0,71.5,18.5,13.3,0,0,194,150,150,2.5,0,0,0.36,0.14,2.8,70,0,0.1,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+J08,Pork Muscle,Sungurako Masu,Meat,0,77.4,18.7,4.4,0,0,114,30,200,2.2,0,0,0,0,0,70,0,0.1,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+J09,Venison,Harinka Masu,Meat,0,75.3,21,0.6,1.9,0,97,3,233,0,0,0,0,0,0,70,0,0.1,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+K01,Hen Egg,Kukhurako Ful,Eggs,0,73.7,13.3,13.3,0.605,1.1,173,60,220,2.1,600,0,0.1,0.4,0,140,0.5,0.15,estimated,1 whole egg,50,1 piece,TRUE,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE
+K02,Duck Egg,Hanss ko Ful,Eggs,0,71,13.5,13.5,0.8,1.1,181,70,260,2.5,540,0,0.12,0.26,0.1,140,0.5,0.15,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+K03,Quail Egg,Battaiko Ful,Eggs,0,74.35,13,11.09,0.41,1.1,158,62,220,3.7,0,0,0,0,0,140,0.5,0.15,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+L01,Hisla (Hilsa),Hilsa Machha,Fish,0,53.7,21.8,19.4,2.9,1.1,273,180,280,2.1,0,24,0,0,2.8,70,0,1.8,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+L02,Katla,Katla Machha,Fish,0,73.7,19.5,2.4,2.9,1.1,111,530,235,0.9,0,0,0,0,0.8,80,0,0.8,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+L03,Mungri (Magur),Mungri Machha,Fish,0,78.5,15,1,4.2,1.1,86,210,290,0.7,0,11,0,0,0.5,80,0,0.8,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+L04,Rahu (Rohu),Rahu Machha,Fish,78,76.7,16.7,1.4,4.4,1.1,97,650,175,1,0,22,0.05,0.05,0.7,80,0,0.8,estimated,1 serving fish,80,1 medium piece,TRUE,TRUE,TRUE,TRUE,TRUE,2,FALSE,TRUE,TRUE
+L05,Singhi,Singhi Machha,Fish,0,68,22.8,0.6,6.9,1.1,124,670,650,2.3,0,9,0,0,0.8,80,0,0.8,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+L06,Tengra,Tengra Machha,Fish,0,70,19.2,6.4,2.3,1.1,144,270,170,2,0,18,0,0,0,80,0,0.8,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+L07,Prawn,Jhinnge Machha,Fish,45,77.4,19.1,1,0.8,1.1,89,323,278,5.3,0,0,0.01,0.01,4.8,150,0,0.5,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+L08,Dry Fish (Sun Dried),Sukeko Machha,Fish,0,13.96,64.9,4.21,16.9,1.1,366,0,0,0,0,0,0,0,0,2000,0,0.6,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,1,TRUE,TRUE,TRUE
+M01,Buffalo Milk,Bhainsiko Dudh,Milk,100,81,4.3,6.5,7.4,0.3,105,210,130,0.2,160,1,0.04,0.1,0.1,50,4.5,0.05,estimated,1 glass milk,200,1 glass (200ml),TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+M02,Cow Milk,Gaiko Dudh,Milk,100,87.5,3.2,4.1,4.4,0.3,67,120,90,0.2,174,2,0.05,0.19,0.1,50,4.5,0.05,estimated,1 glass milk,200,1 glass (200ml),TRUE,TRUE,TRUE,TRUE,TRUE,1,TRUE,TRUE,TRUE
+M03,Curd (Dahi),Dahi,Milk,100,89.1,3.1,4,3,0.3,60,149,93,0.2,137,1,0.02,0.05,0.1,50,4.5,0.05,estimated,1 small cup dahi,100,1 katori,TRUE,TRUE,TRUE,TRUE,TRUE,1,TRUE,TRUE,TRUE
+M04,Goat Milk,Bakhrako Dudh,Milk,100,86.8,3.3,4.5,4.6,0.3,72,170,120,0.3,0,1,0,0.04,0.3,50,4.5,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+M05,Paneer,Paneer,Milk,100,47.5,23.7,26,0.6,0.3,331,441,435,4.5,0,0,0,0,0,20,2,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,FALSE,TRUE,TRUE
+M06,Cheese,Cheese,Milk,100,40.3,24.1,25.1,6.3,0.3,348,790,520,2.1,0,0,0,0,0,620,1,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+M07,Buttermilk,Mohi,Milk,100,97.5,0.8,1.1,0.5,0.3,15,30,30,0.1,102,0,0.05,0,0,500,0,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+M08,Khuwa (Whole Buffalo Milk),Khuwa,Milk,100,30.6,14.6,31.2,20.5,0.3,421,650,420,5.8,273,0,0,0,0,50,4.5,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+M09,Skimmed Milk Powder,Gaiko Dudhko Powder (Fat Free),Milk,100,4.1,38,0.1,51,0.3,357,1370,1000,1.4,5,0,0,1.64,1,50,4.5,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+N01,Butter,Makhhan,Fats & Oils,100,19,6,81,16.6,1.1,729,0,0,0,3200,0,0,0,0,500,0,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+N02,Ghee Cow,Gaiko Ghyu,Fats & Oils,100,19,6,100,16.6,1.1,900,0,0,0,2000,0,0,0,0,500,0,0.02,estimated,1 teaspoon ghee,5,1 tsp,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+N03,Ghee Buffalo,Bhainsiko Ghyu,Fats & Oils,100,19,6,100,16.6,1.1,900,0,0,0,900,0,0,0,0,500,0,0.02,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+N04,Vegetable Cooking Oil,Vanaspati Tel,Fats & Oils,100,19,6,100,16.6,1.1,900,0,0,0,0,0,0,0,0,5,0,0.1,estimated,1 tablespoon oil,14,1 tbsp,TRUE,TRUE,TRUE,TRUE,TRUE,1,FALSE,TRUE,TRUE
+N05,Mustard Oil,Tori Tel,Fats & Oils,100,19,6,100,16.6,1.1,900,0,0,0,0,0,0,0,0,5,0,9,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+O01,Brown Bread,Pauroti Khairo,Misc,100,39,8.8,1.4,49,1.2,244,18,0,2.2,0,0,0.21,0,0.7,450,4,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+O02,White Bread,Pauroti Seto,Misc,100,39,7.8,0.7,51.9,0.2,245,11,0,1.1,0,0,0,0,0,450,4,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+O03,Honey,Maha,Misc,0,2.06,0.3,0,79.5,0.65,319,5,16,0.9,0,4,0,0.04,0.2,5,82,0,estimated,1 tablespoon honey,20,1 tablespoon,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+O04,Jaggery Cane,Sakkhar,Misc,0,3.9,0.4,0.1,95,0.65,383,80,40,11.4,168,0,0.02,0.04,0.5,15,70,0,estimated,1 small piece gur,15,1 small piece,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+O05,Cane Sugar,Chini,Misc,100,0.4,0.1,0,99.4,0,398,0,0,0,0,0,0,0,0,1,99,0,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+O06,Pumpkin Seed,Pharsi ko Geda,Misc,70,8,24.3,47.2,15.6,0.2,584,50,830,5.5,38,1,0.33,0.16,3.1,150,15,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+O07,Jack Fruit Seeds,Kataharko Binya,Misc,0,64.5,6.6,0.4,25.8,1.5,133,50,97,1.5,10,11,0.25,0.11,0.3,150,15,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+O08,Coconut Tender,Nariwal Kancho,Misc,0,90.8,0.9,1.1,6.3,0.65,41,10,30,0.9,0,0,0,0,0,150,15,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+O09,Papad,Papad,Misc,100,20.3,18.8,0.3,52.4,0.65,228,80,300,17.2,0,0,0,0,0,700,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+O10,Biscuit Salty,Biscuit Nunilo,Misc,100,4.5,6.6,32.4,54.6,0.65,534,0,0,0,0,0,0,0,0,700,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+O11,Biscuit Sweet,Biscuit Guliyo,Misc,100,5.4,6.4,15.2,71.9,0.65,450,0,0,0,0,0,0,0,0,100,35,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+O12,Corn Flakes,Makaiko Chaikla,Misc,100,2.2,7.4,0.5,52.4,1.1,319,0,0,0,0,0,0,0,0,600,8,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+P01,Cooked Rice,Bhat,Cooked Foods,0,67.5,2.5,0.17,29.4,0,129,0,0,0,0,0,0,0,0,350,2,0.05,estimated,Standard dal bhat plate rice portion,200,1 large serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+P02,Dal (Cooked Pulses),Tarkari Daal,Cooked Foods,0,86.3,3.3,0.6,7.4,0.72,48.7,0,0,0,0,0,0,0,0,350,2,0.05,estimated,Standard dal bhat plate dal portion,150,1 bowl,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+P03,Green Vegetables Cooked,Hariyo Tarkari,Cooked Foods,0,83.1,2,2.61,7.3,2.32,61,0,0,0,0,0,0,0,0,350,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+P04,Dhindo (Maize Dough),Dhindo,Cooked Foods,0,53.2,2.8,1.2,22.2,0.72,111,6,0,0.72,0,0,0,0,0,350,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+P05,Buff Momo,Buff Momo,Cooked Foods,100,53.2,11.7,7.74,24.6,0.89,215,0,0,0,0,0,0,0,0,450,1,0.05,estimated,1 plate buff momo (8 pieces),160,8 pieces,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+P06,Chicken Momo,Chicken Momo,Cooked Foods,100,56.4,9.8,8.06,23.6,0.55,206,0,0,0,0,0,0,0,0,450,1,0.05,estimated,1 plate chicken momo (8 pieces),160,8 pieces,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+P07,Vegetable Momo,Veg Momo,Cooked Foods,100,62.9,4.4,2.25,27.6,1.17,148,0,0,0,0,0,0,0,0,450,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+P08,Samosa,Samosa,Cooked Foods,0,41.3,4.6,14.8,36.7,0.48,298,0,0,0,0,0,0,0,0,450,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+P09,Sel (Sel Roti),Sel Roti,Cooked Foods,0,22.1,4.5,11.7,61.3,0.07,225,0,0,0,0,0,0,0,0,350,2,0.05,estimated,1 sel roti,60,1 piece,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+P10,Jeri (Jalebi),Jeri,Cooked Foods,0,15.8,2.4,21.3,60.4,0,445,0,0,0,0,0,0,0,0,100,35,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+P11,Aaluchap,Aaluchap,Cooked Foods,0,51.5,4.2,11.5,29.6,1.01,238,0,0,0,0,0,0,0,0,450,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+P12,Pakauda,Pakauda,Cooked Foods,0,29.5,5.4,21.1,37.3,3.05,361,0,0,0,0,0,0,0,0,450,1,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+P13,Dal Bhat (Rice + Lentil),Dal Bhat,Cooked Foods,0,53.2,5.8,0.87,36.8,0.72,178,0,0,0,0,0,0,0,0,350,2,0.05,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+Q01,Wai Wai Noodles,Wai Wai,Supplementary,0,1.8,7.68,20,66.4,0.15,476,87,120,4.4,0,0,0,0,0,1000,3,0.1,estimated,1 packet wai wai,75,1 packet,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+Q02,Rara Noodles,Rara,Supplementary,0,2,6.15,19.9,70,0.14,484,56,98,5.1,0,0,0,0,0,1000,3,0.1,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
+Q03,Muesli,Muesli,Supplementary,0,5.9,10.06,5.6,75,2.07,390,220,21,1,0,0,0,0,0,900,3,0.1,estimated,Standard 100g serving,100,100g serving,TRUE,TRUE,TRUE,TRUE,TRUE,2,TRUE,TRUE,TRUE
