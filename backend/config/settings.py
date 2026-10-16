@@ -6,9 +6,11 @@ from pathlib import Path
 
 # Base Directory: /simplified_project/backend
 BASE_DIR = Path(__file__).resolve().parent.parent
-
 SECRET_KEY = os.environ.get("DJANGO_SECRET_KEY", "local-only-dev-key")
 
+if not DEBUG and SECRET_KEY == "local-only-dev-key":
+    raise ValueError("DJANGO_SECRET_KEY must be set in production")
+    
 DEBUG = os.environ.get("DEBUG", "False").lower() == "true"
 
 ALLOWED_HOSTS = os.environ.get(
