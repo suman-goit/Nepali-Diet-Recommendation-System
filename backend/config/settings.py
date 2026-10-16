@@ -112,10 +112,17 @@ REST_FRAMEWORK = {
 }
 
 # Allow CORS for Frontend Vite Dev Server
-for o in os.environ.get(
-    "CORS_ALLOWED_ORIGINS",
-    "http://localhost:5173,https://nepali-diet-recommendation-system.vercel.app",
-).split(",")
+# Allow CORS for Frontend Vite Dev Server
+CORS_ALLOWED_ORIGINS = [
+    o.strip()
+    for o in os.environ.get(
+        "CORS_ALLOWED_ORIGINS",
+        "http://localhost:5173,https://nepali-diet-recommendation-system.vercel.app",
+    ).split(",")
+    if o.strip()
+]
+
+# Internationalization
 
 # Internationalization
 LANGUAGE_CODE = 'en-us'
