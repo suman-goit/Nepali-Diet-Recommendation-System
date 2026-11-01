@@ -4,7 +4,7 @@
 A modular, explainable clinical dietary recommendation system tailored specifically for Nepali dietary habits, regional food availability (Mountain, Hills, Terai), seasonality, and chronic health conditions (Hypertension, Diabetes, Anaemia, Celiac, Lactose Intolerance).
 
 ---
-# you can view my work in my below tutorial
+# Application Demo Video
 https://github.com/user-attachments/assets/9a461531-4248-4477-880e-1129506bedc1
 ## 1. Project Directory Structure
 
